@@ -1,5 +1,5 @@
 #include <iostream>
 using namespace std;
 int main(){
-    cout<<"labbb" << endl;
+    cout<<"labbb2" << endl;
 }
